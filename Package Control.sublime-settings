@@ -1,27 +1,18 @@
-// http://opensourcehacker.com/2012/05/11/sublime-text-2-tips-for-python-and-web-developers/#Add_CodeIntel_autocompletion_support
 {
-	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Case Conversion",
-		"Djaneiro",
-		"DocBlockr",
-		"Emmet",
-		"Gist",
+		"DashDoc",
 		"Git",
+		"GitGutter",
 		"Markdown Preview",
-		"nginx",
 		"Package Control",
-		"Prefixr",
-		"Pretty JSON",
-		"SFTP",
-		"SideBarEnhancements",
-		"SideBarGit",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"SVN",
-		"Tag",
-		"Theme - Soda",
-        "JsFormat"
+		"Pretty Ruby",
+		"Ruby Debugger",
+		"SCSS",
+		"TrailingSpaces"
 	]
 }
